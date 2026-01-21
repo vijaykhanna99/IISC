@@ -1,5 +1,5 @@
 {
-  "name": "iisc-site",
+  "name": "iisc",
   "compatibility_date": "2026-01-21",
   "assets": {
     "directory": "./dist"
